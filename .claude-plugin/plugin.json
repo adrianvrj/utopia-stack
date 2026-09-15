@@ -1,0 +1,21 @@
+{
+  "name": "utopia-stack",
+  "description": "if you want to go fast, go deep first. utopia-stack helps you write less, but higher quality code. a maintained fork of poteto's pstack, by adrianvrj.",
+  "version": "0.1.0",
+  "author": {
+    "name": "adrianvrj",
+    "url": "https://github.com/adrianvrj"
+  },
+  "homepage": "https://github.com/adrianvrj/utopia-stack",
+  "repository": "https://github.com/adrianvrj/utopia-stack",
+  "license": "MIT",
+  "keywords": [
+    "utopia-stack",
+    "utopia-mode",
+    "workflow",
+    "principles",
+    "agent-style",
+    "subagents",
+    "unslop"
+  ]
+}

@@ -16,11 +16,24 @@ fork it. improve it. make it yours. PRs are welcome!
 
 ## install
 
+### cursor
+
 point cursor at this folder as a local plugin. once it is on the marketplace:
 
 ```bash
 /add-plugin utopia-stack
 ```
+
+### claude code
+
+this repo doubles as a claude code plugin marketplace:
+
+```bash
+/plugin marketplace add adrianvrj/utopia-stack
+/plugin install utopia-stack@utopia-stack
+```
+
+all the skills and both agents come along. update later with `/plugin marketplace update utopia-stack`.
 
 ## get started
 
